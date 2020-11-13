@@ -1,0 +1,17 @@
+Your public key has been saved in C:\Users\ASUS/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:Xkp68RFrc8cIpIjFLShreF++Ypau6C0xL1srBHrOt5o 905244364@qq.com
+The key's randomart image is:
++---[RSA 2048]----+
+|     o..  .      |
+|  . .oo..o       |
+| . o. ... o      |
+|o +   .    + o   |
+|oo . o  S * o o  |
+|.+. . .+ * + .   |
+|.++. ...+ .      |
+| ==oB ..         |
+|ooEXoo           |
++----[SHA256]-----+
+
+ 
